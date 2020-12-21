@@ -1,0 +1,4 @@
+pip install virtualenvwrapper-win
+pip instsall python
+pip install django
+pip install djangorestframework
